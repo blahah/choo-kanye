@@ -29,13 +29,13 @@ This module implements the [`kanye` API](https://github.com/bevacqua/kanye) usin
 
 Any `kanye` events received before the DOM is loaded are buffered until they can be registered.
 
-Methods:
+Events `choo-kanye` listens to:
 
-- `kanye:on(combo, options?, listener)`
+- `kanye:on` args: `combo, options?, listener`
   - see ['kanye.on'](https://github.com/bevacqua/kanye#kanyeoncombo-options-listener)
-- `kanye:off(combo, options?, listener)`
+- `kanye:off` args: `combo, options?, listener`
   - see ['kanye.off'](https://github.com/bevacqua/kanye#kanyeoffcombo-options-listener)
-- `kanye.clear(context?)`
+- `kanye.clear` args: `context?`
   - see ['kanye.clear'](https://github.com/bevacqua/kanye#kanyeclearcontext)
 
 
