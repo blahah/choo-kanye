@@ -1,8 +1,7 @@
 const kanye = require('kanye')
 
 module.exports = (state, bus) => {
-  const beforedom = []
-  const mappings = {}
+  let beforedom = []
   let domloaded = false
 
   const on = (combo, opts, listener) => {
