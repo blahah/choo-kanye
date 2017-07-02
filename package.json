@@ -1,0 +1,20 @@
+{
+  "name": "choo-kanye",
+  "version": "0.0.0",
+  "description": "choo-kanye",
+  "main": "index.js",
+  "dependencies": {
+    "kanye": "^3.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/choo-kanye.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/blahah/choo-kanye/issues"
+  },
+  "homepage": "https://github.com/blahah/choo-kanye"
+}
