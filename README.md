@@ -54,7 +54,7 @@ choo.use(function(state, bus) {
     console.log('hi!')
   }
   // run sayhi when the user presses ctrl+shift+a while element with id 'main' is the target
-  bus.emit('kanye:on', 'ctrl+shift+a', { filter: '#main' }, sayhi))
+  bus.emit('kanye:on', 'ctrl+shift+a', { filter: '#main' }, sayhi)
 })
 ```
 
