@@ -3,6 +3,9 @@
 <div align="center">
   <h1>choo-kanye</h1>
   <h2>easily add <a href="https://github.com/bevacqua/kanye">kanye</a> keyboard shortcuts to your choo app</h2>
+  <div align="center">
+    <img src="https://github.com/blahah/choo-kanye/raw/master/assets/the-best.gif" />
+  </div>
   <p>
     <a href="https://npmjs.com/packages/choo-kanye" alt="npm package">
       <img src="https://img.shields.io/npm/v/choo-kanye.svg?style=flat-square">
